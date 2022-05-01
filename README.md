@@ -11,17 +11,6 @@
 - 📫 How to reach me: <a src="parisa98ettehad@gmail.com">parisa98ettehad@gmail.com</a>
 - 😄 Pronouns: She/Her
 
-### **Connect with me:**
-
-[<img align="left" alt="twitter" title="Twitter" width="28px" src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Twitter_bird-256.png" />][twitter]
-[<img align="left" alt="telegram" title="Telegram" width="28px" src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_telegram_Airplane_Air_plane_paper_airplane-33-256.png" />][telegram]
-[<img align="left" alt="linkedin" title="LinkedIn" width="28px" src="https://www.linkedin.com/in/parisa-ettehad/" />][linkedin]
-[<img align="left" alt="instagram" title="Instagram" width="28px" src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_instagram-256.png" />][instagram]
-[<img align="left" alt="reddit" title="Reddit" width="28px" src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_reddit_robot-256.png" />][reddit]
-[<img align="left" alt="discord" title="Discord | + 20Sadegh +#0838" width="28px" src="https://cdn0.iconfinder.com/data/icons/social-media-2474/128/discord_message_interaction_logo_communication-256.png" />][discord]
-[<img align="left" alt="whatsapp" title="Whatsapp" width="28px" src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Whatsapp_telephone_handset-256.png" />][whatsapp]
-<a href="mailto:sadegh.rsg@gmail.com"><img align="left" alt="email" title="Email" width="28px" src="https://cdn0.iconfinder.com/data/icons/social-media-and-logos-11/32/Gmail_envelope_letter_email_Gmail_envelope_letter_email-256.png" /></a>
-
 <br/><br/>
 ## **My Tech Stack**
 
